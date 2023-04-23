@@ -155,12 +155,17 @@ html{
 .sobremi .contenido-sección .fila .col{
     width: 30%;
 }
-.sobremi .contenido-sección .fila .col{
-    color: #171215;
+.sobremi .contenido-sección .fila .col i{
+    color: #090918;
     display: inline-block;
-    width: auto;
+    width: 50px;
     height: 40px;
-    border: 3px solid #940253;
+    border: 3px solid #ec188c;
     line-height: 32px;
     border-radius: 50%;
+}
+.sobremi .contenido-sección .fila .col span{
+    display: block;
+    font-weight: bold;
+    margin: 8px 5;
 }
