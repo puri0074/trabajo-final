@@ -177,7 +177,8 @@ html {
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  color: #000000;
+  color: #fff;
+  box-shadow: #00ffee;
 }
 .Habilidades .contenido-sección {
   max-width: 1000px;
@@ -187,4 +188,30 @@ html {
 .Habilidades .contenido-sección h3 {
   text-transform: uppercase;
   font-size: 30px;
+}
+.Habilidades .contenido-sección .fila {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.Habilidades .contenido-sección .fila .col {
+  width: 48%;
+  text-align: left;
+}
+.Habilidades .contenido-sección .fila .col .cont-barra {
+  display: flex;
+  align-items: center;
+}
+.Habilidades .contenido-sección .fila .barra {
+  display: flex;
+  border: 1px solid #940253;
+  padding: 2px;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+.Habilidades .contenido-sección .barra .e {
+  background-color: #363636;
+  width: 20px;
+  height: 30px;
+  margin-right: 2px;
 }
