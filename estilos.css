@@ -176,4 +176,15 @@ html {
     url(puri.jfif);
   background-size: cover;
   background-attachment: fixed;
+  background-position: center center;
+  color: #000000;
+}
+.Habilidades .contenido-sección {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 10px;
+}
+.Habilidades .contenido-sección h3 {
+  text-transform: uppercase;
+  font-size: 30px;
 }
