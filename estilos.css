@@ -215,3 +215,10 @@ html {
   height: 30px;
   margin-right: 2px;
 }
+/* seccion contacto*/
+.contacto {
+  background-color: #202020;
+  padding: 143px 0 100 0;
+  color: #e6e6e6;
+  text-align: center;
+}
