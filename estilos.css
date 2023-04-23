@@ -235,3 +235,9 @@ html {
   display: flex;
   justify-content: space-around;
 }
+.contacto .contenido-sección .fila .col {
+  margin-top: 50px;
+}
+.contacto .contenido-sección .fila .col h2 {
+  color: #02948a;
+}
