@@ -100,7 +100,20 @@ html{
     transition: .4s;
 }
 .inicio .contenido-sección .info .redes a:hover{
-    color: #ab4040;
+    color: #5c5b68;
     background-color: #1f181c;
     box-shadow: 0 0 20px #f3ebeb;
+}
+.inicio .contenido-sección .foto{
+    position: relative;
+}
+.inicio .contenido-sección .foto img{
+    max-width: 200px;
+    border-radius: 50%;
+    border: 10px solid #940253;
+    position: absolute;
+    left: auto;
+    top: -100px;
+    transform: translateX(-50%);
+    height: auto;
 }
