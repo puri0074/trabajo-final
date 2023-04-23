@@ -23,17 +23,24 @@ html{
     text-align: center;
     padding: 0% 10px;
 }
-.inicio .contenido-seccion header{
+.inicio .contenido-sección header{
     padding: 30px;
-
+    
 }
 /*menu lateral*/
-.contenido-seccion header nav{
+.contenido-sección header nav{
     position: fixed;
     margin-left: 60px;
-    background-color: #948253;
+    background-color: #945353;
     padding: 15px;
     border-radius: 10px;
     text-align: left;
     z-index: 99;
+}
+.inicio .contenido-sección header nav a{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-weight: bold;
 }
