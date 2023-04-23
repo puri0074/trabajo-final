@@ -1,9 +1,6 @@
-//Menu lateral
-var menu_visible = false;
-let menu = document.getElementById("nav");
 function mostrarOcultarMenu() {
   if (menu_visible == false) {
-    //si esta oculto
+    //oculto esta
     menu.style.display = "block";
     menu_visible = true;
   } else {
