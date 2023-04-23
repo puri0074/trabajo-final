@@ -83,3 +83,19 @@ html{
     margin-top: 27px;
     letter-spacing: 3px;
 }
+.inicio .contenido-sección .info .redes{
+    margin: 20px 0;
+}
+.inicio .contenido-sección .info .redes a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #030a0e;
+    color: #cb1479;
+    border: 2px solid #029450;
+    border-radius: 55%;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    margin: 0 6px;
+    transition: .4s;
+}
