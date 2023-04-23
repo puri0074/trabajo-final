@@ -152,3 +152,6 @@ html{
     margin-top: 30px;
     justify-content: space-between;
 }
+.sobremi .contenido-sección .fila .col{
+    width: 30%;
+}
