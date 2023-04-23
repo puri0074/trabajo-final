@@ -36,6 +36,7 @@ html{
     border-radius: 10px;
     text-align: left;
     z-index: 99;
+    display: none;
 }
 .inicio .contenido-sección header nav a{
     display: block;
@@ -43,4 +44,11 @@ html{
     text-decoration: none;
     margin-bottom: 10px;
     font-weight: bold;
+}
+/* *********  */
+.inicio .contenido-sección header .logo{
+    font-weight: bold;
+    font-size: 2.5rem;
+    font-family: "yellowtall";
+    text-shadow: 0 0 35px #0ef328;
 }
