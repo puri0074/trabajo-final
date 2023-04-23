@@ -231,3 +231,7 @@ html {
   text-transform: uppercase;
   font-size: 30px;
 }
+.contacto .contenido-sección .fila {
+  display: flex;
+  justify-content: space-around;
+}
