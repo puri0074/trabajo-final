@@ -115,11 +115,16 @@ html{
     left: auto;
     top: -100px;
     transform: translateX(-50%);
-    height: auto;
+    height: 200px;
 }
 /* seccion sobre mi */
 .sobremi{
     background-color: #e6e6e6;
     padding: 140px 0 100px;
     text-align: center;
+}
+.sobremi .contenido-sección{
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 10px;
 }
