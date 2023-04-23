@@ -117,3 +117,9 @@ html{
     transform: translateX(-50%);
     height: auto;
 }
+/* seccion sobre mi */
+.sobremi{
+    background-color: #e6e6e6;
+    padding: 140px 0 100px;
+    text-align: center;
+}
