@@ -128,3 +128,7 @@ html{
     margin: auto;
     padding: 0 10px;
 }
+.sobremi .contenido-sección h3{
+    text-transform: uppercase;
+    font-size: 30px;
+}
