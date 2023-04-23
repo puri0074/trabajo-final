@@ -50,10 +50,10 @@ html{
     font-weight: bold;
     font-size: 2.5rem;
     font-family: "yellowtall";
-    text-shadow: 0 0 35px #13e72c;
+    text-shadow: 0 0 35px #3313e7;
 }
 .inicio .contenido-sección header .logo .color{
-    color: #8f9402;
+    color: #02948a;
     font-family: "yellowtail";
 }
 .inicio .contenido-sección header .nav_bar{
@@ -69,4 +69,7 @@ html{
 }
 .inicio .contenido-sección header .nav_bar:hover{
     box-shadow: 0 0 35px #fff;
+}
+.inicio .contenido-sección .info{
+    padding-bottom: 130px;
 }
