@@ -115,7 +115,12 @@ html{
     left: auto;
     top: -100px;
     transform: translateX(-50%);
-    height: 200px;
+    height: 230px;
+}
+/* estilos generales */
+.titulo-sección{
+    font-family: "yellowtail";
+    font-size: 1.9rem;
 }
 /* seccion sobre mi */
 .sobremi{
