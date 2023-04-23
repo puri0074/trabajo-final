@@ -142,3 +142,13 @@ html{
     font-weight: bold;
     margin-top: 20px;
 }
+.sobremi .contenido-sección .p{
+    max-width: 700px;
+    margin: auto;
+    color: #c12121;
+}
+.sobremi .contenido-sección .fila{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+}
