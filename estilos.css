@@ -99,3 +99,8 @@ html{
     margin: 0 6px;
     transition: .4s;
 }
+.inicio .contenido-sección .info .redes a:hover{
+    color: #ab4040;
+    background-color: #1f181c;
+    box-shadow: 0 0 20px #f3ebeb;
+}
