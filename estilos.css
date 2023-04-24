@@ -241,3 +241,7 @@ html {
 .contacto .contenido-sección .fila .col h2 {
   color: #02948a;
 }
+.iframe {
+  margin: 20px;
+  background-color: #029450;
+}
